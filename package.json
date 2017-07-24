@@ -1,0 +1,21 @@
+{
+    "name": "code_editor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "keywords": [],
+    "author": "Almer Mendoza",
+    "license": "",
+    "dependencies": {
+        "electron-compile": "^6.4.1",
+        "monaco-loader": "^0.8.2"
+    },
+    "devDependencies": {
+        "electron": "^1.6.11",
+        "electron-compilers": "^5.9.0",
+        "electron-prebuilt-compile": "^1.6.11"
+    }
+}
